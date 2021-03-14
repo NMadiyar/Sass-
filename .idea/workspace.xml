@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3267df4a-6666-40c3-bb72-8922802e285a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1pFJExfNob5Qv7RufexbRosuIGd" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="NewWatcherDialog.advanced.open" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="TODO_SCOPE" value="All Places" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/css" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="watcher.settings" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3267df4a-6666-40c3-bb72-8922802e285a" name="Default Changelist" comment="" />
+      <created>1614772796681</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1614772796681</updated>
+      <workItem from="1614772801282" duration="6225000" />
+      <workItem from="1615050231626" duration="3679000" />
+      <workItem from="1615355510344" duration="7428000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="619" y="496" key="#Custom_Plugin_Repositories" timestamp="1615049888502">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="619" y="496" key="#Custom_Plugin_Repositories/0.0.1920.1040/1920.0.1366.728@0.0.1920.1040" timestamp="1615049888502" />
+    <state x="836" y="363" width="671" height="332" key="#File_Watchers" timestamp="1615050813519">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="836" y="363" width="671" height="332" key="#File_Watchers/0.0.1920.1040/1920.0.1366.728@0.0.1920.1040" timestamp="1615050813519" />
+    <state x="705" y="353" key="#Notifications" timestamp="1615049535785">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="705" y="353" key="#Notifications/0.0.1920.1040/1920.0.1366.728@0.0.1920.1040" timestamp="1615049535785" />
+    <state x="915" y="348" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1615050025237">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="915" y="348" key="#com.intellij.ide.macro.MacrosDialog/0.0.1920.1040/1920.0.1366.728@0.0.1920.1040" timestamp="1615050025237" />
+    <state x="861" y="205" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1615050372755">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="861" y="205" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040/1920.0.1366.728@0.0.1920.1040" timestamp="1615050372755" />
+    <state x="508" y="427" key="#com.intellij.tools.ToolEditorDialog" timestamp="1615050054909">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="508" y="427" key="#com.intellij.tools.ToolEditorDialog/0.0.1920.1040/1920.0.1366.728@0.0.1920.1040" timestamp="1615050054909" />
+    <state x="804" y="323" width="662" height="678" key="EditFileWatcherDialog" timestamp="1615050880933">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="804" y="323" width="662" height="678" key="EditFileWatcherDialog/0.0.1920.1040/1920.0.1366.728@0.0.1920.1040" timestamp="1615050880933" />
+    <state x="1002" y="412" key="EnvironmentVariablesDialog" timestamp="1615049032194">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1002" y="412" key="EnvironmentVariablesDialog/0.0.1920.1040/1920.0.1366.728@0.0.1920.1040" timestamp="1615049032194" />
+    <state x="915" y="417" key="FileChooserDialogImpl" timestamp="1615050761042">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="915" y="417" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1366.728@0.0.1920.1040" timestamp="1615050761042" />
+    <state x="241" y="242" key="SettingsEditor" timestamp="1615050912199">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="241" y="242" key="SettingsEditor/0.0.1920.1040/1920.0.1366.728@0.0.1920.1040" timestamp="1615050912199" />
+    <state x="927" y="501" width="490" height="396" key="scopes" timestamp="1615050555415">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="927" y="501" width="490" height="396" key="scopes/0.0.1920.1040/1920.0.1366.728@0.0.1920.1040" timestamp="1615050555415" />
+  </component>
+</project>

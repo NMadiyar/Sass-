@@ -1,0 +1,26 @@
+$font-stack: Arial, Helvetica, sans-serif;
+$light-color: #f4f4f4;
+$primary-color: #0e6cff;
+//$primary-color: #e0ffff;
+$secondary-color: #ff8700;
+/*переменные в сасс создаются через $название переменной: значение(red); Делается это для таких вещей,
+которые мы будем часто использовать*/
+
+//Set text color based on bg
+//Задается функция, @function дается любое название(любой параметр, т.к это переменная то ставится $название
+// переменной){ @if(lighntess(переменная) ><= цифры)
+@function set-text-color($color){
+  @if(lightness($color) > 70){
+    @return #333;
+  }@else{
+    @return #fff;
+  }
+}
+
+//Set background and text color
+//@mixin это как функция, только она не возвращает ничего
+@mixin set-background($color){
+  background-color: $color;
+  color: set-text-color($color);
+}
+
